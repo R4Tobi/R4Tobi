@@ -1,24 +1,13 @@
-### Hi there 👋
-I am a Webdeveloper located in Schönebeck/Germany.
-🔭 Currently Working on several projects.
-- Portfolio
-- Majorcloud
+## Hey! 👋
+I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 
-Moreover I work for Schön Bürosysteme, located in Magdeburg/Germany
+- 🧭 Founder at [@tobe-websolutions](https://www.tobe-websolutions.de)
 
-I focus on front-end Development, but also have done some backend development with node.js, MySQL, MongoDB, python
+- 👥 Core team member at [@Majorcloud]
 
-<!--
-**R4Tobi/R4Tobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 HTML, JavaScript (ES6), node.js, Python
+- ⚙️ vue, react
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, MongoDB
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
