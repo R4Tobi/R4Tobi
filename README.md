@@ -1,5 +1,12 @@
 ### Hi there 👋
-- I am a Webdeveloper located in Schönebeck/Germany
+I am a Webdeveloper located in Schönebeck/Germany.
+🔭 Currently Working on several projects.
+- Portfolio
+- Majorcloud
+
+Moreover I work for Schön Bürosysteme, located in Magdeburg/Germany
+
+I focus on front-end Development, but also have done some backend development with node.js, MySQL, MongoDB, python
 
 <!--
 **R4Tobi/R4Tobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
