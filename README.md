@@ -15,4 +15,6 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, MongoDB
 
-//There is no place like 127.0.0.1 || [::1] || localhost
+
+
+<sub><sup>There is no place like 127.0.0.1 || [::1] || localhost</sup></sub>
