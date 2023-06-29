@@ -10,8 +10,8 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 - 👥 Core team member at [@Majorcloud]
 
 ## Skills
-- 👨‍💻 HTML, JavaScript (ES6), node.js, Python
-- ⚙️ vue, react
+- 👨‍💻 JavaScript, Java, C++, Python
+- ⚙️ vue, react, node.js, express.js
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, MongoDB
 - 🐧 Linux (Debian, Arch)
