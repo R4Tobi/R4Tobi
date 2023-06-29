@@ -16,13 +16,6 @@
     }
 }
 
-.snowflake {
-    color: #fff;
-    font-size: 1em;
-    font-family: Arial;
-    text-shadow: 0 0 1px #000;
-}
-
 h1 {
     font-family: 'Inter',
         -apple-system,
@@ -103,8 +96,12 @@ h1 {
 }
 
 .snowflake {
+                    color: #fff;
+    font-size: 1em;
+    font-family: Arial;
+    text-shadow: 0 0 1px #000;
     position: fixed;
-    top: -10%;
+    top: -20px;
     z-index: 9999;
     -webkit-user-select: none;
     -moz-user-select: none;
