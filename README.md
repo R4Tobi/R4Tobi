@@ -14,6 +14,7 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 - ⚙️ vue, react
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, MongoDB
+- 🐧 Linux (Debian, Arch)
 
 
 
