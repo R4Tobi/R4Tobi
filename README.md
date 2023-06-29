@@ -17,4 +17,4 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 
 
 
-<sub><sup>There is no place like 127.0.0.1 || [::1] || localhost</sup></sub>
+<sub><sup>There is no place like 127.0.0.1 || [::1]</sup></sub>
