@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/R4Tobi/R4Tobi/main/name.svg" alt="R4Tobi - Tobias Baake" />
+  <img src="https://raw.githubusercontent.com/R4Tobi/R4Tobi/main/name.svg" alt="R4Tobi/Tobias Baake" />
 </h1>
 
 ## Hey! 👋
