@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/R4Tobi/R4Tobi/main/name.svg" alt="Tobias Baake" />
+</h1>
+
 ## Hey! 👋
 I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 
