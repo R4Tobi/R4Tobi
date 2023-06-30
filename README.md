@@ -5,9 +5,9 @@
 ## Hey! 👋
 I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 
-- 🧭 Founder at [@tobe-websolutions](https://www.tobe-websolutions.de)
+- 🧭 Founder at [tobe-websolutions](https://www.tobe-websolutions.de)
 
-- 👥 Core team member at [@Majorcloud]
+- 👥 Core team member at MajorCloud - early release [NeatBeat](https://neatbeat.r4tobi.de)
 
 ## Skills
 - 👨‍💻 JavaScript, Java, C++, Python
