@@ -7,7 +7,7 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 
 - 🧭 Founder at [tobe-websolutions](https://www.tobe-websolutions.de)
 
-- 👥 Core team member at [Beatsmith](https://github.com/EinfachValle/PRJ-Beatsmith)
+- 👥 Core team member at [Beatsmith](https://github.com/PRJ-Beatsmith)
 
 ## Skills
 - 👨‍💻 JavaScript, Java, C++, Python
