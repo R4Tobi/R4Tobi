@@ -13,7 +13,7 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 - 👨‍💻 JavaScript, Java, C++, Python
 - ⚙️ vue, react, node.js, express.js
 - 👁️ SASS, CSS
-- 💽 MySQL, SQL, MongoDB
+- 💽 SQL, MongoDB
 - 🐧 Linux (Debian, Arch)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4tobi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
