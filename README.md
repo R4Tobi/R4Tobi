@@ -7,18 +7,18 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 
 - 🧭 Founder at [tobe-websolutions](https://www.tobe-websolutions.de)
 
-- 👥 Core team member at [Beatsmith](https://github.com/PRJ-Beatsmith)
+- 👥 team member at [Beatsmith](https://github.com/PRJ-Beatsmith)
 
-- 🎓 Student at [Otto-von-Guericke Universität](www.ovgu.de)
+- 🎓 Computer Visualistics Student at [Otto-von-Guericke Universität Magdeburg](www.ovgu.de)
 
-- 💼 Working at [in4md Sevice GmbH/SAP UCC](https://portal.ucc.ovgu.de/)
+- 💼 Working at [in4md Sevice GmbH / SAP UCC](https://portal.ucc.ovgu.de/)
 
 ## Skills
 - 👨‍💻 JavaScript, Java, C++, Python
 - ⚙️ vue, react, node.js, express.js
 - 👁️ SASS, CSS
 - 💽 SQL, MongoDB
-- 🐧 Linux (Debian, Arch)
+- 🐧 Linux (Debian, Ubuntu, Arch, SLSE)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4tobi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
