@@ -9,7 +9,7 @@ I'm Tobi, a 18 years old web developer from Schönebeck/Germany.
 
 - 👥 team member at [Beatsmith](https://github.com/PRJ-Beatsmith)
 
-- 🎓 Computer Visualistics Student at [Otto-von-Guericke Universität Magdeburg](www.ovgu.de)
+- 🎓 Computer Visualistics Student at [Otto-von-Guericke Universität Magdeburg](https://www.ovgu.de)
 
 - 💼 Working at [in4md Sevice GmbH / SAP UCC](https://portal.ucc.ovgu.de/)
 
