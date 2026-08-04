@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/R4Tobi/R4Tobi/main/name.svg" alt="R4Tobi/Tobias Baake" />
+  <img src="https://raw.githubusercontent.com/0x616661/0x616661/main/name.svg" alt="0x616661" />
 </h1>
 
 ## Hey! 👋
-I'm Tobi, a 21 years old web developer from Schönebeck/Germany.
+I'm Tobi, a 21 years old developer from Germany.
 
-- 🎓 Computer Visualistics Student at [Otto-von-Guericke Universität Magdeburg](https://www.ovgu.de)
+- 🎓 Business Informatics Student at [Otto-von-Guericke Universität Magdeburg](https://www.ovgu.de)
 
 - 💼 Working at [in4md Sevice GmbH / SAP UCC](https://portal.ucc.ovgu.de/)
 
